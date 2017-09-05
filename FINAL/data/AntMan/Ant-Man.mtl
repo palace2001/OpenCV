@@ -1,0 +1,15 @@
+# 
+# 
+
+newmtl AntMan
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Ant-Man_D.tga
+map_Bump Ant-Man_N.tga
+map_Ke Ant-Man_E.tga
